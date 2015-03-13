@@ -1,0 +1,1 @@
+simple and basic algorithms and data structure algorithms coded by myself and just for job hunting.
